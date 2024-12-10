@@ -3,7 +3,7 @@ let resetBtn= document.querySelector("#reset-btn");
  let msgContainer = document.querySelector(".msg-container")
  let msg= document.querySelector("#msg");
  let newbtn=document.querySelector('#new-btn')
-
+//nothing heree 
 
 let turn0= true; //player X, player 0 
 
